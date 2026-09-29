@@ -91,8 +91,8 @@ Tests can then focus on the scenario while page-specific interaction logic remai
 playwright-automation-suite/
 │
 ├── playwright-practica/
-│   └── pages/
-│       └── Page Object classes
+│   └── bookspage.ts
+│   └── login.ts
 │
 ├── tests/
 │   └── Automated test cases
